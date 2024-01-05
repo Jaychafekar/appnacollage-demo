@@ -1,4 +1,4 @@
 # appnacollage-demo
 This is my first git repository.
 <br>
-Author - Jay (university of westminster)
+Author - Jay Chafekar (university of westminster)
